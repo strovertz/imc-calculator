@@ -4,36 +4,12 @@ Basic IMC calculator
 
 Cálculadora de IMC básica com alguns relatórios:
 
-data da entrega: 25 de abril;
- trabalhos atrasados não serão corrigidos - se você não terminou tudo a tempo, entregue o que
-conseguiu fazer;
-
- formato da entrega: enviar o arquivo fonte .c (não anexar arquivos executáveis!) para deise@inf.ufsm.br;
-
- trabalho em grupos de até 2 alunos. Enviar um e-mail por dupla, identificando a disciplina, nome
-dos alunos e número do trabalho (trabalho 1, por exemplo);
-
- caso não receba confirmação do recebimento do e-mail em 24h, contate novamente o professor
-(reclamações posteriores sobre possíveis problemas no envio do e-mail não serão aceitas);
-
- cópias da internet e/ou colegas de outras duplas anulam a nota do trabalho de ambos os grupos;
- trabalhos com erros de compilação não serão corrigidos;
-
- professor usará o Dev-C ou Code Blocks para corrigir os trabalhos. Podem usar qquer IDE para
-implementar o trabalho, mas certifique-se de que o arquivo está compilando corretamente em
-alguma destas IDEs;
-
- obrigatoriamente a solução de vocês deve fazer uso de funções e passagem de parâmetros
-(eventuais respostas que pareçam corretas na execução, mas não usem funções e passagem de
-parâmetros, serão consideradas erradas);
-
- não devem ser usadas variáveis globais;
-
- a qualquer momento, vocês podem ser chamados para responder questionamentos sobre o trabalho
-entregue. Quando chamados, os alunos devem apresentar/responder aos questionamentos do
-professor, os quais farão parte da nota do trabalho;
-
- juntamente com o trabalho deve ser entregue um arquivo readme.txt que descreve brevemente o
-que foi implementado e o que não foi implementado do enunciado do trabalho;
-
- peso do trabalho: verificar no site da disciplina em “Avaliação”;
+1) os dados de todas as pessoas do vetor;
+2) o nome das pessoas que estão com sobrepeso;
+3) o código das pessoas que estão com obesidade;
+4) o valor médio dos pesos;
+5) a quantidade de pessoas que tem peso acima do valor médio dos pesos;
+6) a quantidade de pessoas que não estão na faixa normal de peso;
+7) o nome das pessoas que tem peso normal e que pesam menos do que o valor médio dos pesos;
+8) o nome da(s) pessoa(s) que obteve (obtiveram) o maior IMC;
+9) o código da(s) pessoa (s) que obteve (obtiveram) o menor IMC.
